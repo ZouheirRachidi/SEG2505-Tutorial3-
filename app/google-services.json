@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752038949136",
+    "project_id": "real-time-offline-firebase-dem",
+    "storage_bucket": "real-time-offline-firebase-dem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752038949136:android:dbbe1dd04f0ccf3e487595",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKB6-zxK6Te8iQeJLAmnBbsfjaTk5Cw0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
